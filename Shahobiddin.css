@@ -4,9 +4,22 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-.Shahobiddin h1{
-    font-size: 60px;
-    font-weight: 500;
-    background: green;
-    color: rgb(255, 234, 0);
+body{
+    display: flex;
+    justify-content: center;
+}
+#Shahobiddin{
+    width: 100%;
+    height: 896px;
+    border: 1px solid red;
+}
+#navbar{
+    width: 100%;
+    height: 80px;
+    border: 1px solid red;
+    padding: 0 100px;
+}
+#div1{
+    width: 300px;
+    height: auto;
 }
