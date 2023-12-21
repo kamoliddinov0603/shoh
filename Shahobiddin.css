@@ -55,7 +55,7 @@ body{
     height: 40px;
     border: none;
     outline: none;
-    margin-top: 20px;
+    top: 20px;
     font-size: 16px;
     font-weight: 700;
     color: #909090b1;
@@ -81,4 +81,12 @@ body{
     border-radius: 8px;
     background: brown;
     color: white;
+}
+#divv1{
+    position: absolute;
+    width: 1240px;
+    height: 130px;
+    border: 1px solid red;
+    top: 100px;
+
 }
