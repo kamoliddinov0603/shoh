@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Nozimjon */
 
 
@@ -19,3 +20,11 @@
 
 /* Shohobidin */
 
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+>>>>>>> e9dc240684be6993a26bed961d4a10c582fd628b
