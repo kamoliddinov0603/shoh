@@ -3,4 +3,40 @@
     height: 1000px;
     border: 1px solid black;
     margin-top: 2000px;
+    background: #000;
+}
+.sh_div{
+    width: 100%;
+    height: 625px;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    padding: 0 130px;
+}
+.sh_div img{
+    width: 492px;
+    height: 543px;
+}
+.sh_div h1{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 31px;
+    color: white;
+    margin-left: 200px;
+}
+.sh_div p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #E9E9EF;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.sh_div1{
+    width: 100%;
+    height: 355px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
 }
