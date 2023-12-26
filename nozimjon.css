@@ -6,7 +6,6 @@
 .nozimjon{
     width:1400px;
     height: auto;
-    border: 1px solid red;
     color: wheat;
     background: #000;
 }
@@ -16,11 +15,16 @@
 }
 
 .Nnavbar{
+    height: 80px;
+    width: 100%;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 30px;
+}
+.Nnavbar a{
+    text-decoration: none;
+    color: white;
 }
 .Nnavbar h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
