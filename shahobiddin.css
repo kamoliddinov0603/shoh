@@ -1,6 +1,6 @@
 .shahobiddin{
     width: 100%;
-    height: 1000px;
+    height: 2830px;
     border: 1px solid black;
     margin-top: 2000px;
     background: #000;
@@ -8,10 +8,9 @@
 .sh_div{
     width: 100%;
     height: 625px;
-    border: 1px solid red;
     display: flex;
     align-items: center;
-    padding: 0 130px;
+    padding: 0 150px;
 }
 .sh_div img{
     width: 492px;
@@ -34,9 +33,230 @@
 .sh_div1{
     width: 100%;
     height: 355px;
-    border: 1px solid red;
+    display: flex;
+    margin-top: 100px;
+}
+.sh_div1 img{
+    width: 354px;
+    height: 270px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.sh_div2{
+    width: 780px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.sh_div2 h1{
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 61px;
+    color: white;
+}
+.sh_div2 p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 30px;
+    color: #E9E9EF;
+}
+.sh_div3{
+    width: 100%;
+    height: 460px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 100px;
+    padding: 0 55px;
+}
+.sh_sh{
+    width: 400px;
+    height: 327px;
+    border-radius: 15px;
+    background: #FFFFFF1A;
+}
+.sh_sh h1{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 36px;
+    font-weight: 400;
+}
+.sh_sh p{
+    width: 325px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 31px;
+    color: #E9E9EF;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.sh_sh button{
+    width: 173px;
+    height: 65px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background: #4A3D68;
+    color: white;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.sh_div4{
+    width: 100%;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    padding: 0 65px;
+}
+.sh_img{
+    position: relative;
+    width: 295px;
+    height: 432px;
+    border-radius: 15px;
+}
+.sh_img img{
+    position: absolute;
+    width: 295px;
+    height: 432px;
+    border-radius: 15px;
+    z-index: 5;
+}
+.sh_yozuv{
+    position: absolute;
+    width: 295px;
+    height: 100px;
+    background: #000000CC;
+    border-radius: 0 0 15px 15px;
+    top: 332px;
+    z-index: 10;
+}
+.sh_yozuv img{
+    width: 41px;
+    height: 12px;
+    margin-top: 43px;
+    margin-left: 30px;
+}
+.sh_yozuv p{
+    font-size: 18px;
+    font-weight: 500;
+    color: #BDBFD1;
+    margin-left: 95px;
+    margin-top: 20px;
+}
+.sh_square{
+    width: 800px;
+    height: 435px;
+    margin-left: 100px;
+}
+.sh_square h1{
+    font-size: 36px;
+    font-weight: 400;
+    color: white;
+    margin-top: 40px;
+}
+.sh_start{
+    width: 100%;
+    height: 320px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.sh_chat1{
+    width: 315px;
+    height: 140px;
+}
+.sh_chat1 h1{
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-top: 20px;
+}
+.sh_chat1 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 31px;
+    color: #E9E9EF;
+    margin-top: 10px;
+}
+.sh_div5{
+    width: 100%;
+    height: 240px;
+}
+.sh_div5 h1{
+    font-size: 36px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+.sh_div5 button{
+    width: 170px;
+    height: 60px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white; 
+    margin-left: 570px;  
+    margin-top: 80px;    
+}
+.sh_nav{
+    width: 100%;
+    height: 360px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 80px;
+    margin-top: 100px;
+}
+.sh_qwer{
+    width: 310px;
+    height: 300px;
+}
+.sh_qwer h3{
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+.sh_qwer p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 31px;
+    color: #9093B1;
+    margin-top: 30px;
+}
+.sh_qwer h5{
+    font-size: 18px;
+    font-weight: 500;
+    color: #9093B1;
+    margin-top: 30px;
+}
+.sh_imgg{
+    width: 230px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.sh_imgg img{
+    width: 24px;
+    height: 24px;
+}
+.abcd{
+    width: 170px;
+    height: 335px;
+}
+.abcd h3{
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+.abcd p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #9093B1;
 }
